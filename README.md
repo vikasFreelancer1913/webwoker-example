@@ -20,3 +20,5 @@ demerit of single threaded Javascript.
 For this comment the **main_bad.js** and uncomment **main.js** form **index.html**. Now clear the cache and run your application again. Now follow the same process, first click on calculate button and then click on change background button. You will observe now your page is not getting hanged and your background is also changing and parallely the calculation is also running. After few seconds you will see the result of calculation also on your window.
 
 #### TA_DA... The magic of WEB WORKER.
+
+## Thanks for testing it, I hope you have learned something new today. To follow and learn more please visit my website [thisissingh.com](https://www.thisissingh.com/) .
