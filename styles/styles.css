@@ -1,0 +1,35 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+    background: rgb(92, 104, 104);
+    color: darkslategrey;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    box-sizing: border-box;
+    color: rgb(228, 231, 231);
+}
+
+h1 {
+    text-align: center;
+}
+
+main {
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+}
+
+.sumTotal {
+    margin-top: 10px;
+    text-align: center;
+}
+
+button {
+    margin: 10px;
+}
