@@ -21,4 +21,4 @@ For this comment the **main_bad.js** and uncomment **main.js** form **index.html
 
 #### TA_DA... The magic of WEB WORKER.
 
-## Thanks for testing it, I hope you have learned something new today. To follow and learn more please visit my website [thisissingh.com](https://www.thisissingh.com/) .
+## Thanks for testing it, I hope you have learned something new today. To follow and learn more please visit my website [thisissingh.com](https://www.thisissingh.com/){:target="_blank" rel="noopener"}
